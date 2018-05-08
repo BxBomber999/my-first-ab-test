@@ -11,7 +11,7 @@ AB testing (also called split-testing) is a form of experimentation that present
 
 The version that any one user will see is random, but the two versions are presented simultaneously to a group of visitors to the site.  If one version performed (statistically) significantly better than the other, then it wins.  The winning version is now presented to users and the process can begin again with another set of criteria.
 
-OK, I’ve heard many people can do statistics, why is this important?
+Why is this important?
 
 The method is commonly used to maximize revenue from users by testing marketing materials, calls to action, landing pages, etc. until the optimal mix is found.  But A/B testing can reveal more than just you users color and button size preferences.  Good A/B tests can also reveal patterns about your users beliefs, motivations, and more.  You can use this information to better understand and serve your customers.
 
